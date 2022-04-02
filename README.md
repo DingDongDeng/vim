@@ -16,7 +16,7 @@ install_basic_vimrc.sh
 
 
 ``` 
-## ~/.vimrc 내용
+##  vim ~/.vim_runtime/my_configs.vim
 :set number 
 :set paste 
 :set encoding=utf-8 

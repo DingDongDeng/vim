@@ -17,10 +17,9 @@ install_basic_vimrc.sh
 
 ``` 
 ##  vim ~/.vim_runtime/my_configs.vim
-:set paste 
-:set encoding=utf-8 
-:set cursorline 
-:set langmap=ㅁa,ㅠb,ㅊc,ㅇd,ㄷe,ㄹf,ㅎg,ㅗh,ㅑi,ㅓj,ㅏk,ㅣl,ㅡm,ㅜn,ㅐo,ㅔp,ㅂq,ㄱr,ㄴs,ㅅt,ㅕu,ㅍv,ㅈw,ㅌx,ㅛy,ㅋz 
+":set paste
+:set encoding=utf-8
+:set cursorline
 :set term=xterm-256color
 :set number " line 표시를 해줍니다.
 :set ai " auto indent
@@ -42,9 +41,9 @@ install_basic_vimrc.sh
 :set showmatch " 매칭되는 괄호를 보여줌
 :set nowrap " 자동 줄바꿈 하지 않음
 :set wmnu " tab 자동완성시 가능한 목록을 보여줌
- 
-" intelij IdeaVimExtension plugin, ~/.ideavimrc 
-" :set keep-english-in-normal 
+
+" intelij IdeaVimExtension plugin, ~/.ideavimrc
+" :set keep-english-in-normal
 ```
 
 

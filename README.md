@@ -41,9 +41,11 @@ install_basic_vimrc.sh
 :set showmatch " 매칭되는 괄호를 보여줌
 :set nowrap " 자동 줄바꿈 하지 않음
 :set wmnu " tab 자동완성시 가능한 목록을 보여줌
+```
 
-" intelij IdeaVimExtension plugin, ~/.ideavimrc
-" :set keep-english-in-normal
+```
+## vim ~/.ideavimrc (intelij IdeaVimExtension plugin 사용하는 경우)
+:set keep-english-in-normal
 ```
 
 
